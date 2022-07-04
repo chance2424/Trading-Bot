@@ -7,13 +7,13 @@ create an algorithmic trading bot that learns and adapts to new data and evolvin
 
 ## Technologies
 
-This program was created using Python, questionary, the csv library, and fire
+This program was created using Python, and Jupyter Notebook
 
 ---
 
 ## Installation Guide
 
-git clone https://github.com/chance2424/Business_loan_qualifier_app.git
+git clone https://github.com/chance2424/Trading-Bot.git
 
 ---
 
