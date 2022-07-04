@@ -13,7 +13,7 @@ This program was created using Python, and Jupyter Notebook
 
 ## Installation Guide
 
-git clone https://github.com/chance2424/Trading-Bot.git
+git clone https://github.com/chance2424/Trading-algorithm.git
 
 ---
 
